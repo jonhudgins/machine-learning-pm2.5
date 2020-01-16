@@ -1,2 +1,2 @@
 # Machine-Learning-Air-Pollution-Prediction
-Predicting PM2.5 levels of air pollution 
+Using machine learning techniques to predict PM2.5 levels of air pollution 
